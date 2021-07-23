@@ -39,6 +39,13 @@ As seen from the above dataframes, the removal of the scores of Thomas High Scho
 
 ### Thomas High School's Performance Compared to Others'
 
+THS remained in the top 5 performing schools even after the academic dishonesty adjustment. Although there was a slight decrease in the overall passing percentage (90.95% to 90.63%), it did not move THS from it's spot as the 2nd-highest-performing school.
+
+*Top 5 Schools Prior to Academic Dishonesty Adjustment (i.e. no NaNs):* <img width="987" alt="old top schools" src="https://user-images.githubusercontent.com/84816495/126838132-6817e199-39c0-492b-86af-7c886bf384ce.png">
+
+*Top 5 Schools After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):* <img width="981" alt="new top schools" src="https://user-images.githubusercontent.com/84816495/126838179-8742ffa0-2e6d-43e8-9592-b5af7f1df0dd.png">
+
+
 ### Math & Reading Scores by Grade Analysis
 
 ### Scores by School Spending Analysis
