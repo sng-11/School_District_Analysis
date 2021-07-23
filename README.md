@@ -30,9 +30,12 @@ As seen from the above dataframes, the removal of the scores of Thomas High Scho
 
 ### School Summary Analysis
 
-*School Summary Prior to Academic Dishonesty Adjustment (i.e. no NaNs):* 
+*School Summary Prior to Academic Dishonesty Adjustment (i.e. no NaNs):* <img width="991" alt="old school summary" src="https://user-images.githubusercontent.com/84816495/126833417-27e6b510-e814-45b1-b10b-f7cae9cf658a.png">
 
-*School Summary After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):*
+
+*School Summary After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):* <img width="984" alt="new school summary" src="https://user-images.githubusercontent.com/84816495/126833437-9e09ed13-a342-4dfd-aae8-d1554881feaf.png">
+
+As seen from the above dataframes, the removal of the scores of Thomas High School's 9th-graders changed values that were already described in the previous District Summary section. Since average math scores were changed,  percentage of students passing math and percentage of students passing overall have been altered. The academic dishonesty at THS does not affect other schools hence the values for other schools remain the same. 
 
 ### Thomas High School's Performance Compared to Others'
 
