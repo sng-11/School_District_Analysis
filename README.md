@@ -16,4 +16,25 @@ The purpose of this project is to create a high-level snapshot of the district's
 
 ## Results
 
-### How is the district summary affected?
+### District Summary Analysis
+
+District Summary Prior to Academic Dishonesty Adjustment (i.e. no NaNs):
+
+District Summary After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):
+
+### School Summary Analysis
+
+### Thomas High School's Performance Compared to Others'
+
+### Math & Reading Scores by Grade Analysis
+
+### Scores by School Spending Analysis
+
+### Scores by School Type Analysis
+
+
+## Summary
+
+To summarize, the following lists four major changes in the updated school district analysis after reading and math scores for Thomas High School's 9th grade have been replaced with NaNs:
+
+1. 
