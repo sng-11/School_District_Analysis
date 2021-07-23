@@ -85,6 +85,11 @@ No changes were observed after Thomas High School 9th grade scores were replaced
 
 ### Scores by School Size Analysis
 
+Similar to the school spending analysis, no changes were observed after Thomas High School 9th grade scores were replaced with NaNs. This can be due to the large sample population analyzed within the Medium bin (as THS has 1636 students), so changes in grade scores were negligible. The following chart was created in the old and updated school district analysis:
+
+<img width="757" alt="old and new size same" src="https://user-images.githubusercontent.com/84816495/126845199-28e9965d-a3fb-40c8-9001-e681a80bc5a9.png">
+
+
 ### Scores by School Type Analysis
 
 
