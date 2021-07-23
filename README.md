@@ -37,6 +37,7 @@ As seen from the above dataframes, the removal of the scores of Thomas High Scho
 
 As seen from the above dataframes, the removal of the scores of Thomas High School's 9th-graders changed the average math scores and the average reading scores of the entire school. And these changes are more drastic compared to the district summary because we are looking at a smaller school population. The average math score of THS dropped (83.42 to 83.35) while the average reading score increased (83.85 to 83.90). This is most likely due to higher math scores and lower reading scores being removed. The percentages of students passing math and those passing reading both decreased though, indicating that more "above or equal to 70" scores were removed by the academic dishonesty adjustment. Overall, the passing percentage across the school did slightly decrease from 90.95% to 90.63%.
 
+
 ### Thomas High School's Performance Compared to Others'
 
 THS remained in the top 5 performing schools even after the academic dishonesty adjustment. Although there was a slight decrease in the overall passing percentage (90.95% to 90.63%), it did not move THS from it's spot as the 2nd-highest-performing school.
@@ -50,6 +51,22 @@ THS did not rank in the bottom 5 performing schools so no changes were observed 
 
 ### Math & Reading Scores by Grade Analysis
 
+#### Math Scores By Grade Results
+
+*Math Scores by Grade Prior to Academic Dishonesty Adjustment (i.e. no NaNs):*<img width="304" alt="old math" src="https://user-images.githubusercontent.com/84816495/126843321-9a5a99a3-a2b6-4e07-950f-8947629f8911.png">
+
+*Math Scores by Grade After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):* <img width="299" alt="new math" src="https://user-images.githubusercontent.com/84816495/126843201-a561de08-2662-49dc-9c34-68e541151d55.png">
+
+As seen from the above dataframes, all math scores by grade remained the same EXCEPT for Thomas High School's 9th grade, which had "nan" replaced for its value. This is because the academic dishonesty adjustment nullified those scores to not be accounted for in the district analysis.
+
+#### Reading Scores by Grade Results
+
+A similar story is observed for the reading scores, where all scores by grade remained the same EXCEPT for Thomas High School's 9th grade, which had "nan" replaced for its value. Again, this is because of the academic dishonesty adjustment. 
+
+*Reading Scores by Grade Prior to Academic Dishonesty Adjustment (i.e. no NaNs):*<img width="296" alt="old reading" src="https://user-images.githubusercontent.com/84816495/126843603-d73396a1-0dff-478c-8da1-47a0faa885bc.png">
+
+*Reading Scores by Grade After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):*<img width="301" alt="new reading" src="https://user-images.githubusercontent.com/84816495/126843615-014bef07-1565-4ef6-b423-eaab667cc246.png">
+
 ### Scores by School Spending Analysis
 
 ### Scores by School Type Analysis
@@ -57,6 +74,6 @@ THS did not rank in the bottom 5 performing schools so no changes were observed 
 
 ## Summary
 
-To summarize, the following lists four major changes in the updated school district analysis after reading and math scores for Thomas High School's 9th grade have been replaced with NaNs:
+To summarize, the following list includes four major changes in the updated school district analysis after reading and math scores for Thomas High School's 9th grade have been replaced with NaNs:
 
 1. 
