@@ -45,6 +45,8 @@ THS remained in the top 5 performing schools even after the academic dishonesty 
 
 *Top 5 Schools After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):* <img width="981" alt="new top schools" src="https://user-images.githubusercontent.com/84816495/126838179-8742ffa0-2e6d-43e8-9592-b5af7f1df0dd.png">
 
+THS did not rank in the bottom 5 performing schools so no changes were observed in that school list after the academic dishonesty adjustment: <img width="987" alt="bottom schools" src="https://user-images.githubusercontent.com/84816495/126838408-1d5b0271-0c2c-4a3a-80f1-d037d7eebbbf.png">
+
 
 ### Math & Reading Scores by Grade Analysis
 
