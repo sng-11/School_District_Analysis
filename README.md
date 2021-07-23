@@ -101,4 +101,7 @@ Similar to the school spending and school size analyses, no changes were observe
 
 To summarize, the following list includes four major changes in the updated school district analysis after reading and math scores for Thomas High School's 9th grade have been replaced with NaNs:
 
-1. 
+1. Removal of the scores of Thomas High School's 9th-graders pulled down slightly the average math scores (79.0 to 78.9) and the percentage of students passing math (75% to 74.8%) and passing overall (65% to 64.9%) across the district.
+2. The average math score of THS dropped (83.42 to 83.35) while the average reading score increased (83.85 to 83.90) after removal of scores of THS 9th-graders. Percentages of students passing math and those passing reading both decreased though, indicating that more "above or equal to 70" scores were removed by the academic dishonesty adjustment. 
+3. Overall, the passing percentage across Thomas High School did slightly decrease from 90.95% to 90.63% after taking into account the academic dishonesty.
+4. All math and reading scores by grade remained the same EXCEPT for Thomas High School's 9th grade, which had "nan" replaced for those score values (in order to discount them).
