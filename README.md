@@ -92,6 +92,10 @@ Similar to the school spending analysis, no changes were observed after Thomas H
 
 ### Scores by School Type Analysis
 
+Similar to the school spending and school size analyses, no changes were observed after Thomas High School 9th grade scores were replaced with NaNs. This will most likely be due to the extremely large student population and scores taken into account (as THS is a charter school along with eight others), so changes in grade scores were negligible. The following chart was created in the old and updated school district analysis:
+
+<img width="709" alt="old and new type same" src="https://user-images.githubusercontent.com/84816495/126845944-a66e820d-18f9-4049-bd88-9608805476c4.png">
+
 
 ## Summary
 
