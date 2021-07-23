@@ -1,25 +1,19 @@
-# School_District_Analysis
+# School District Analysis
 
-copy and paste so need to change this:
+## Overview of School District Analysis
+The purpose of this project is to create a high-level snapshot of the district's school system to better inform discussions and decision-making for the State Board of Education. School performance trends are extracted from the source data using the Pandas library, in the Jupyter Notebook interface. For example, the education board would like to know how budget per student, school size, and type of school may influence the performance of students. In addition, the code written for this project takes into account the academic dishonety discovered in Thomas High School's 9th-graders. This report aims to investigate how this academic misconduct will affect the high-level school district analysis.
 
-A high-level snapshot of the district's key metrics, presented in a table format
-An overview of the key metrics for each school, presented in a table format
-Tables presenting each of the following metrics:
-Top 5 and bottom 5 performing schools, based on the overall passing rate
-The average math score received by students in each grade level at each school
-The average reading score received by students in each grade level at each school
-School performance based on the budget per student
-School performance based on the school size 
-School performance based on the type of school
+## Key Metrics of Interest to the School Board
 
+- Total number of students
+- Total number of schools
+- Total budget
+- Average math score
+- Average reading score
+- Percentage of students who passed math
+- Percentage of students who passed reading
+- Overall passing percentage
 
-The school district summary will be a high-level snapshot of the district's key metrics:
+## Results
 
-Total number of students
-Total number of schools
-Total budget
-Average math score
-Average reading score
-Percentage of students who passed math
-Percentage of students who passed reading
-Overall passing percentage
+### How is the district summary affected?
