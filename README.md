@@ -22,6 +22,8 @@ District Summary Prior to Academic Dishonesty Adjustment (i.e. no NaNs):
 
 District Summary After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):
 
+As seen from the above dataframes, 
+
 ### School Summary Analysis
 
 ### Thomas High School's Performance Compared to Others'
