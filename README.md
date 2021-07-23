@@ -18,9 +18,9 @@ The purpose of this project is to create a high-level snapshot of the district's
 
 ### District Summary Analysis
 
-District Summary Prior to Academic Dishonesty Adjustment (i.e. no NaNs):
+*District Summary Prior to Academic Dishonesty Adjustment (i.e. no NaNs):*
 
-District Summary After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):
+*District Summary After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):*
 
 As seen from the above dataframes, 
 
