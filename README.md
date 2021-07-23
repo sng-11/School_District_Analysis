@@ -25,7 +25,7 @@ The purpose of this project is to create a high-level snapshot of the district's
 
 <img width="913" alt="New District Summary" src="https://user-images.githubusercontent.com/84816495/126802587-1b5c2e48-f434-42e2-aaf6-7179c411ed0c.png">
 
-As seen from the above dataframes, the removal of the scores of Thomas High School's 9th-graders pulled down slightly the average math scores (79.0 to 78.9) and the percentage of students passing math (75% to 74.8%) and passing overall (65% to 64.9%). This can be attributed to substitution of higher-than-average scores by NaNs in the math category, subsequently changing the percentages of passing students. There was no noticeable change in the average reading score, hence, no noticeable change in percentage of students passing reading.
+As seen from the above dataframes, the removal of the scores of Thomas High School's 9th-graders pulled down slightly the average math scores (79.0 to 78.9) and the percentage of students passing math (75% to 74.8%) and passing overall (65% to 64.9%) across the district. This can be attributed to substitution of higher-than-average scores by NaNs in the math category, subsequently changing the percentages of passing students. There was no noticeable change in the average reading score, hence, no noticeable change in percentage of students passing reading.
 
 
 ### School Summary Analysis
@@ -35,7 +35,7 @@ As seen from the above dataframes, the removal of the scores of Thomas High Scho
 
 *School Summary After Adjusting for Academic Dishonesty (i.e. reading and math scores for 9th grade at Thomas High School replaced with NaNs):* <img width="984" alt="new school summary" src="https://user-images.githubusercontent.com/84816495/126833437-9e09ed13-a342-4dfd-aae8-d1554881feaf.png">
 
-As seen from the above dataframes, the removal of the scores of Thomas High School's 9th-graders changed values that were already described in the previous District Summary section. Since average math scores were changed,  percentage of students passing math and percentage of students passing overall have been altered. The academic dishonesty at THS does not affect other schools hence the values for other schools remain the same. 
+As seen from the above dataframes, the removal of the scores of Thomas High School's 9th-graders changed the average math scores and the average reading scores of the entire school. And these changes are more drastic compared to the district summary because we are looking at a smaller school population. The average math score of THS dropped (83.42 to 83.35) while the average reading score increased (83.85 to 83.90). This is most likely due to higher math scores and lower reading scores being removed. The percentages of students passing math and those passing reading both decreased though, indicating that more "above or equal to 70" scores were removed by the academic dishonesty adjustment. Overall, the passing percentage across the school did slightly decrease from 90.95% to 90.63%.
 
 ### Thomas High School's Performance Compared to Others'
 
