@@ -78,6 +78,13 @@ A similar story is observed for the reading scores, where all scores by grade re
 
 ### Scores by School Spending Analysis
 
+No changes were observed after Thomas High School 9th grade scores were replaced with NaNs. This can be due to the large sample population analyzed within the $630-644 bin (as THS spends $638/student on average), so the changes in grade scores were negligible in the grand scheme of things. The following chart was created in the old and updated school district analysis:
+
+<img width="794" alt="old and new spending same" src="https://user-images.githubusercontent.com/84816495/126844279-29024d49-45be-4b1a-bce4-f1b4b92d9e84.png">
+
+
+### Scores by School Size Analysis
+
 ### Scores by School Type Analysis
 
 
